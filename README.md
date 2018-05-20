@@ -33,5 +33,6 @@ $ npm start
 ```
 
 ```bash
-app will open in browser `http://localhost:3000/`
+server will open on port `http://localhost:8080/`
+client app will open in browser `http://localhost:3000/`
 ```
